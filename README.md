@@ -1,6 +1,6 @@
 # Machine Learning in Finance 
 
-MLFINA is a research team focusing on academic research in empirical finance, while introducing and developing methodologies, such as machine learning, statistics, and econometrics, to the finance community. We share essential code and data of research projects with github. We welcome collaborations from all end channels, including but not limited to academia, government, industry, student organizations, and interested individuals.
+MLFINA is a research team focusing on academic research in empirical finance, while introducing and developing methodologies, such as machine learning, statistics, and econometrics, to the finance community. We share essential code and data of research projects with github. We welcome collaborations from all end channels, including but not limited to academia, government, industry, student organizations, and individuals.
 
 ## Team Member
 
