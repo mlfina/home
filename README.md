@@ -26,4 +26,5 @@ MLFINA is a research team focusing on academic research in empirical finance, wh
 ## Contact
 
 Email: mlfina.ustc@gmail.com
+
 Address: 1789th Guang Xi Road, Hefei, China. International Institue of Finance, Univesity of Science and Technology of China.
