@@ -12,7 +12,7 @@ MLFINA is a research team focusing on academic research in empirical finance, wh
 
 - [Xin He](https://www.xinhesean.com)
   - Tenure-Track Associate Professor of Finance, School of Management, University of Science and Technology of China.
-  - Actively hiring research students with background in CS/FIN/ORMS/STAT/MATH. Please email your transcript, cv, and cover letter to mlfina.ustc@gmail.com.
+  - Actively hiring research students with background in CS/FIN/MATH/ORMS/STAT. Please email your transcript, cv, and cover letter to mlfina.ustc@gmail.com.
 
 ## Research Students
 
