@@ -14,7 +14,7 @@ We welcome collaborations from all ends, including but not limited to academia, 
 
 - [Xin He](https://www.xinhesean.com)
   - Tenure-Track Associate Professor of Finance, School of Management, University of Science and Technology of China.
-  - Actively hiring research students interested in Quantitative Investment, with background from CS/FIN/MATH/ORMS/STAT. Please email your transcript, cv, and cover letter to *mlfina.ustc@gmail.com*.
+  - Actively hiring research students interested in Quantitative Investment, with background from FIN/MATH/ORMS/STAT. Please email your transcript, cv, and cover letter to *mlfina.ustc@gmail.com*.
 
 ## Research Students
 
