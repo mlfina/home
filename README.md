@@ -19,6 +19,7 @@ We welcome collaborations from all ends, including but not limited to academia, 
 ## Research Students
 
 - Shuo Yan (Monash University, PhD student)
+- Xinlei Hao (Peking University PHBS, master student)
 - Jinsheng Liao (Xiamen University, master student)
 - Xiaojuan Wang (Najing University, master student)
 - Haoyuan Wei (Peking University PHBS, master student)
