@@ -1,6 +1,6 @@
 # MLFINA
 
-MLFINA is a research team focusing on quantitative investment.
+MLFINA is a research team focusing on quantitative investment with applications in both academia and industry.
 We share essential code and data of research projects with github. 
 We welcome collaborations from all ends, including but not limited to academia, government, industry, student organizations, and individuals.
 
