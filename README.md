@@ -24,6 +24,7 @@ We welcome collaborations from all ends, including but not limited to academia, 
 - Xiaojuan Wang (Najing University, master student)
 - Haoyuan Wei (Peking University PHBS, master student)
 - Xuhui Xiao (University of Science and Technology of China, master student)
+- Ji Zhang (University of Science and Technology of China, master student)
 - Ruitong Li (Hunan University, undergraduate student)
 
 ## Contact
