@@ -19,6 +19,7 @@ We welcome collaborations from all ends, including but not limited to academia, 
 ## Research Students
 
 - Shuo Yan (Monash University, PhD student)
+- Min Dong (University Carlos III of Madrid, master student)
 - Xinlei Hao (Peking University PHBS, master student)
 - Jinsheng Liao (Xiamen University, master student)
 - Xiaojuan Wang (Najing University, master student)
@@ -26,7 +27,8 @@ We welcome collaborations from all ends, including but not limited to academia, 
 - Xuhui Xiao (University of Science and Technology of China, master student)
 - Ji Zhang (University of Science and Technology of China, master student)
 - Ruitong Li (Hunan University, undergraduate student)
-
+- Xican Yang (University of Science and Technology of China, undergraduate student)
+  
 ## Contact
 
 Email: mlfina.ustc@gmail.com
