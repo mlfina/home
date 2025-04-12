@@ -21,6 +21,7 @@ We welcome collaborations from all ends, including but not limited to academia, 
 ### Graduate Student
 
 - Min Dong (University Carlos III of Madrid)
+- Zehua Dong (University of Science and Technology of China)
 - Xinlei Hao (Peking University PHBS)
 - Jinsheng Liao (Xiamen University)
 - Xiaojuan Wang (Najing University)
