@@ -32,6 +32,7 @@ We welcome collaborations from all ends, including but not limited to academia, 
 
 ### Undergraduate Student
 
+- Yuanhang Chang (University of Science and Technology of China)
 - Ruitong Li (Hunan University)
 - Xican Yang (University of Science and Technology of China)
   
