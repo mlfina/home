@@ -28,8 +28,8 @@ We welcome collaborations from all ends, including but not limited to academia, 
 - Haoyuan Wei (Peking University PHBS)
 - Shuo Yan (Monash University)
 - Zhengxu Yan (Shandong University)
-- Feng Ye (Xiamen University)
 - Xuhui Xiao (University of Science and Technology of China)
+- Feng Ye (Xiamen University)
 - Ji Zhang (University of Science and Technology of China)
 
 ### Undergraduate Student
