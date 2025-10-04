@@ -6,8 +6,8 @@ We welcome collaborations from all ends, including but not limited to academia, 
 
 ## News
 
-- December 2024, the manuscript “Predicting Individual Corporate Bond Returns” was accepted to Journal of Banking and Finance. [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3870306)
-- October 2024, the manuscript “Growing the Efficient Frontier on Panel Trees” was accepted to Journal of Financial Economics. [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3949463)
+- May 2025, the manuscript “Growing the Efficient Frontier on Panel Trees” was published on Journal of Financial Economics. [link](https://doi.org/10.1016/j.jfineco.2025.104024)
+- Feb 2025, the manuscript “Predicting Individual Corporate Bond Returns” was accepted to Journal of Banking and Finance. [link](https://doi.org/10.1016/j.jbankfin.2024.107372)
 - July 2024, the paper “Growing the Efficient Frontier on Panel Trees” won the IQAM Research Award 2024, 3rd Research Prize Award. [link](https://iqam-research.de/forschungspreis/iqam-research-prize-2024/#content-wrapper)
 
 ## Team Member
@@ -20,24 +20,19 @@ We welcome collaborations from all ends, including but not limited to academia, 
 
 ### Graduate Student
 
-- Min Dong (University Carlos III of Madrid)
-- Zehua Dong (University of Science and Technology of China)
 - Xinlei Hao (Peking University PHBS)
-- Jinsheng Liao (Xiamen University)
 - Xiaojuan Wang (Najing University)
 - Haoyuan Wei (Peking University PHBS)
 - Shuo Yan (Monash University)
 - Zhengxu Yan (Shandong University)
 - Xuhui Xiao (University of Science and Technology of China)
 - Feng Ye (Xiamen University)
-- Ji Zhang (University of Science and Technology of China)
 
 ### Undergraduate Student
 
-- Yuanhang Chang (University of Science and Technology of China)
-- Ruitong Li (Hunan University)
-- Xican Yang (University of Science and Technology of China)
-  
+- Haiwen Chen (University of Science and Technology of China)
+- Junchang Chen (University of Science and Technology of China)
+
 ## Contact
 
 Email: mlfina.ustc@gmail.com
