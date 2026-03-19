@@ -6,7 +6,7 @@ MLFINA is a team for people who want to do serious work in quantamental investme
 
 We are here because we believe in high-quality research, high-quality investment work, and a high standard for how we live and work. This is not a loose affiliation. It is a group built around ambition, craft, and shared direction.
 
-## 2. We use AI across the full research stack.
+## 2. We use AI and Git across the full research stack.
 
 We use AI in idea generation, literature review, coding, data work, writing, replication, communication, and operations. We do not use AI as a substitute for judgment. We use it as leverage to think better, move faster, and operate at a higher level.
 
