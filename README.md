@@ -4,6 +4,8 @@ MLFINA is a research team focusing on quantamental investment with applications 
 We share essential code and data of research projects with github [link](https://github.com/mlfina/). 
 We welcome collaborations from all ends, including but not limited to academia, government, industry, student organizations, and individuals.
 
+Our [vision](https://github.com/mlfina/home/blob/main/mlfina-blueprint-v3.md).
+
 ## News
 
 - May 2025, the manuscript “Growing the Efficient Frontier on Panel Trees” was published on Journal of Financial Economics. [link](https://doi.org/10.1016/j.jfineco.2025.104024)
