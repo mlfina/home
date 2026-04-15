@@ -32,8 +32,8 @@ Our [vision](https://github.com/mlfina/home/blob/main/mlfina-blueprint-v3.md).
 
 ### Undergraduate Student
 
-- Haiwen Chen (University of Science and Technology of China)
 - Junchang Chen (University of Science and Technology of China)
+- Yijun Xu (University of Illinois Urbana-Champaign)
 
 ## Contact
 
