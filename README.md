@@ -10,7 +10,6 @@ Our [vision](https://github.com/mlfina/home/blob/main/mlfina-blueprint-v3.md).
 
 - May 2025, the manuscript “Growing the Efficient Frontier on Panel Trees” was published on Journal of Financial Economics. [link](https://doi.org/10.1016/j.jfineco.2025.104024)
 - Feb 2025, the manuscript “Predicting Individual Corporate Bond Returns” was accepted to Journal of Banking and Finance. [link](https://doi.org/10.1016/j.jbankfin.2024.107372)
-- July 2024, the paper “Growing the Efficient Frontier on Panel Trees” won the IQAM Research Award 2024, 3rd Research Prize Award. [link](https://iqam-research.de/forschungspreis/iqam-research-prize-2024/#content-wrapper)
 
 ## Team Member
 
@@ -23,12 +22,14 @@ Our [vision](https://github.com/mlfina/home/blob/main/mlfina-blueprint-v3.md).
 ### Graduate Student
 
 - Xinlei Hao (Peking University PHBS)
+- Yan Mao (University of Science and Technology of China)
 - Xiaojuan Wang (Najing University)
 - Haoyuan Wei (Peking University PHBS)
 - Shuo Yan (Monash University)
 - Zhengxu Yan (Shandong University)
 - Xuhui Xiao (University of Science and Technology of China)
 - Feng Ye (Xiamen University)
+- Xinyue Zeng (University of Science and Technology of China)
 
 ### Undergraduate Student
 
