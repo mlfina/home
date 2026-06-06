@@ -34,6 +34,7 @@ Our [vision](https://github.com/mlfina/home/blob/main/mlfina-blueprint-v3.md).
 ### Undergraduate Student
 
 - Junchang Chen (University of Science and Technology of China)
+- Chengxuan Li (University of Science and Technology of China)
 
 ## Contact
 
