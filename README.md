@@ -16,7 +16,9 @@ Our [vision](https://github.com/mlfina/home/blob/main/mlfina-blueprint-v3.md).
 - [Xin He](https://www.xinhesean.com)
   - Tenure-Track Associate Professor of Finance, School of Management, University of Science and Technology of China.
   - Actively hiring research students interested in Quantitative Investment, with background from FIN/MATH/ORMS/STAT. Please email your transcript, cv, and cover letter to *mlfina.ustc@gmail.com*.
-
+- [Yuanzhi Wang](https://bs.ustc.edu.cn/chinese/profile-2842.html)
+  - Tenure-Track Associate Professor of Finance, School of Management, University of Science and Technology of China.
+    
 ## Research Students
 
 ### Graduate Student
