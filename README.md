@@ -23,21 +23,25 @@ Our [vision](https://github.com/mlfina/home/blob/main/mlfina-blueprint-v3.md).
 
 ### Graduate Student
 
+- Junchang Chen (City University of Hong Kong)
 - Xinlei Hao (Peking University PHBS)
 - Yan Mao (University of Science and Technology of China)
+- Xiangtian Meng (University of Science and Technology of China)
+- Lingzhao Pang (University of Science and Technology of China)
+- Shasha Wang (University of Science and Technology of China)
 - Xiaojuan Wang (Najing University)
 - Haoyuan Wei (Peking University PHBS)
-- Shuo Yan (Monash University)
 - Zhengxu Yan (Shandong University)
-- Xuhui Xiao (University of Science and Technology of China)
-- Feng Ye (Xiamen University)
+- Shuqin Yang (University of Science and Technology of China)
+- Feng Ye (City University of Hong Kong)
 - Xinyue Zeng (University of Science and Technology of China)
+- Lingxiang Zhang  (University of Science and Technology of China)
 
 ### Undergraduate Student
 
-- Junchang Chen (University of Science and Technology of China)
 - Chengxuan Li (University of Science and Technology of China)
-
+- Xiangzheng Xi (University of Science and Technology of China)
+  
 ## Contact
 
 Email: mlfina.ustc@gmail.com
